@@ -15,6 +15,26 @@
 
 ---
 
+### 📂 My Repositories
+
+#### 🌊 Greenhouse Gas & Carbon Cycling
+
+- **[FluxSeparator](https://github.com/JonasStage/FluxSeparator)** — R package for separating ebullitive (bubble) and diffusive greenhouse gas fluxes.
+- **[seasonal_pond_ghg](https://github.com/JonasStage/seasonal_pond_ghg)** — Analysis of seasonal greenhouse gas emissions from ponds.
+- **[Methane-and-CO2-sensor](https://github.com/JonasStage/Methane-and-CO2-sensor)** — DIY low-cost sensors for measuring methane (CH₄) and carbon dioxide (CO₂).
+
+#### 💧 Water Chemistry & Freshwater Ecology
+
+- **[DKWaterChemistry](https://github.com/JonasStage/DKWaterChemistry)** — Visual inspection of water chemistry across Danish freshwater systems.
+- **[lake_chemistry](https://github.com/JonasStage/lake_chemistry)** — Visual inspection of chemical properties and dynamics in lakes.
+- **[Pond_encroachment](https://github.com/JonasStage/Pond_encroachment)** — Study of vegetation encroachment and its effects on pond ecosystems.
+
+#### 🌐 Website & Profile
+
+- **[JonasStage.github.io](https://github.com/JonasStage/JonasStage.github.io)** — Personal academic website covering freshwater ecology and greenhouse gas research.
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
@@ -35,26 +55,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-### 📂 My Repositories
-
-#### 🌊 Greenhouse Gas & Carbon Cycling
-
-- **[FluxSeparator](https://github.com/JonasStage/FluxSeparator)** — R package for separating ebullitive (bubble) and diffusive greenhouse gas fluxes from aquatic measurements.
-- **[seasonal_pond_ghg](https://github.com/JonasStage/seasonal_pond_ghg)** — Analysis of seasonal greenhouse gas emissions from ponds.
-- **[Methane-and-CO2-sensor](https://github.com/JonasStage/Methane-and-CO2-sensor)** — DIY low-cost sensors for measuring methane (CH₄) and carbon dioxide (CO₂) in the field.
-
-#### 💧 Water Chemistry & Freshwater Ecology
-
-- **[DKWaterChemistry](https://github.com/JonasStage/DKWaterChemistry)** — Dataset and analysis of water chemistry across Danish freshwater systems.
-- **[lake_chemistry](https://github.com/JonasStage/lake_chemistry)** — Analysis of chemical properties and dynamics in lakes.
-- **[Pond_encroachment](https://github.com/JonasStage/Pond_encroachment)** — Study of vegetation encroachment and its effects on pond ecosystems.
-
-#### 🌐 Website & Profile
-
-- **[JonasStage.github.io](https://github.com/JonasStage/JonasStage.github.io)** — Personal academic website covering freshwater ecology and greenhouse gas research.
 
 ---
 
