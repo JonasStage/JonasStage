@@ -8,10 +8,10 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I'm a freshwater biologist
+- 🌊 I'm a freshwater biologist
 - 🌱 My research on automatic sensors and large datasets
-- EMOJI I'm very interested in carbon cycling in freshwaters 
-- 💬 Ask me about anything — I'm happy to help!
+- 🐠 I'm very interested in carbon cycling in freshwaters 
+- 🦭 Ask me about anything — I'm happy to help!
 
 ---
 
