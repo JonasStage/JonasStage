@@ -6,6 +6,12 @@
 
 ---
 
+#### 🌐 Website & Profile
+
+- **[JonasStage.github.io](https://github.com/JonasStage/JonasStage.github.io)** — Personal academic website covering freshwater ecology and greenhouse gas research.
+
+---
+
 ### 🙋‍♂️ About Me
 
 - 🌊 I'm a freshwater biologist
@@ -28,10 +34,6 @@
 - **[DKWaterChemistry](https://github.com/JonasStage/DKWaterChemistry)** — Visual inspection of water chemistry across Danish freshwater systems.
 - **[lake_chemistry](https://github.com/JonasStage/lake_chemistry)** — Visual inspection of chemical properties and dynamics in lakes.
 - **[Pond_encroachment](https://github.com/JonasStage/Pond_encroachment)** — Study of vegetation encroachment and its effects on pond ecosystems.
-
-#### 🌐 Website & Profile
-
-- **[JonasStage.github.io](https://github.com/JonasStage/JonasStage.github.io)** — Personal academic website covering freshwater ecology and greenhouse gas research.
 
 ---
 
