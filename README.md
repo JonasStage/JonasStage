@@ -8,7 +8,7 @@
 
 #### 🌐 Website & Profile
 
-- **[JonasStage.github.io](https://github.com/JonasStage/JonasStage.github.io)** — Personal academic website covering freshwater ecology and greenhouse gas research.
+- **[JonasStage.github.io](https://jonasstage.github.io/)** — Personal academic website covering freshwater ecology and greenhouse gas research.
 
 ---
 
